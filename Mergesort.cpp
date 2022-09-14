@@ -51,7 +51,7 @@ void mergesort(int arr[], int l , int r)
     merge (arr,l,mid,r);
 }
 }
-
+{}
 int main()
 {  
     int arr[]= {50 ,40 ,30 ,20 ,10};
